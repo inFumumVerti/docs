@@ -9,7 +9,7 @@ tags: ["studio", "pages", "list", "how to", "filter", "sort"]
 
 ## 1 Introduction 
 
-This how-to explains how you can filter and sort items in a list view or a data grid in Mendix Studio. 
+This how-to explains how you can filter and sort items in a list view or a data grid in Mendix Studio (Mendix Studio Pro needs different Tutorial). 
 
 **This how-to will teach you how to do the following:**
 
